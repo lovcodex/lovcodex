@@ -1,72 +1,88 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=gruvbox_light"/>
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lorena-almeida" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FFFFFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=f5f5f5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/Visual%20Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-F5F5F5?style=for-the-badge&logo=discord&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <img height="200" src="https://www.image2url.com/r2/default/gifs/1776634430044-47fa026b-6c7a-4cd6-bbfe-01b1223baacf.gif"  />
+  <img height="200" src="https://www.image2url.com/r2/default/gifs/1776634430044-47fa026b-6c7a-4cd6-bbfe-01b1223baacf.gif"/>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lovcodex.lovcodex&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lorenaalmeida&"/>
 </div>
 
-###
+---
 
-<h1 align="center"></h1>
+## 🖖 Saudações [BR]
 
-###
+Sou uma desenvolvedora backend em construção e uma criadora curiosa no universo da tecnologia.
+Minha curiosidade funciona como um radar — sempre buscando novas ideias, explorando caminhos e conectando tudo com programação.
 
-<h3 align="center">ａｂｏｕｔ ｍｅ</h3>
+Acredito que a tecnologia deve ser **acessível, prática e transformadora**.
+Meu objetivo é criar soluções que não só funcionem bem, mas que também impactem pessoas de forma positiva.
 
-###
+### Jornada de Aprendizagem & Skills
 
-<p align="left"></p>
+Atualmente estou focada em evoluir como desenvolvedora backend:
 
-###
+* Desenvolvimento com **C# e .NET**
+* Arquitetura de sistemas e APIs
+* Estrutura de Dados e POO
+* Boas práticas de engenharia de software
 
-<br clear="both">
+### Minha Visão
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1sbGN0cXduc2Mwa2V6eHcyODZmbHBiaGlocjNseHF3aXNhN25vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0Iwmo4TUQXIxH44/giphy.gif"  />
+Quero usar a tecnologia para:
 
-###
+* Quebrar barreiras
+* Criar soluções inteligentes
+* Tornar o conhecimento mais acessível
+* Construir projetos com propósito
+* Unir **Criatividade + Lógica**
 
-<h5 align="left">Hello! I'm Lorena, an aspiring backend developer with a passion for cloud computing and artificial intelligence.<br>I enjoy creating creative and logical solutions, building projects that are both practical and impactful, and continuously improving my skills in software development.<br><br>I'm especially drawn to the retro tech aesthetic, which inspires me to blend classic ideas with modern technology.</h5>
+---
 
-###
+## 🖖 Greetings [EN]
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lovcodex/lovcodex/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lovcodex/lovcodex/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lovcodex/lovcodex/output/pacman-contribution-graph.svg">
-</picture>
+I am a backend developer in progress and a curious creator in the world of technology.
+My curiosity works like a radar — always exploring new ideas and connecting them with programming.
 
-###
+I believe technology should be **accessible, practical, and transformative**.
+My goal is to build solutions that not only work well but also positively impact people's lives.
 
-<div align="center">
-  <img height="200" src="https://www.image2url.com/r2/default/images/1776635230433-fa2a1288-aea6-4d52-9123-d80572346491.gif"  />
-</div>
+### Learning Journey & Skills
 
-###
+Currently focusing on growing as a backend developer:
+
+* Development with **C# and .NET**
+* System Architecture and APIs
+* Data Structures and OOP
+* Software Engineering Best Practices
+
+### My Vision
+
+I want to use technology to:
+
+* Break barriers
+* Build intelligent solutions
+* Make knowledge more accessible
+* Create projects with purpose
+* Combine **Creativity + Logic**
+
+---
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=gruvbox_light"/>
 </div>
-
-###
